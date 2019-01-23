@@ -26,5 +26,19 @@ A partir do diretório inicial do projeto, executar os seguintes comandos:
 
     - cd server
     - npm install
-    - node server
+    - npm start
 </pre>
+
+3. FrontEnd - Instalação de dependências e inicialização do aplicativo
+
+<pre>
+Em outro terminal, a partir do diretório inicial do projeto, executar os seguintes comandos:
+
+    - cd readable-app
+    - npm install
+    - npm start
+</pre>
+
+# Aplicação
+
+Caso os passos acima sejam executados corretamente, uma nova janela do navegador deverá abrir automaticamente exibindo a aplicação Readable. Caso isto não ocorra automaticamente, é possível acessar o aplicativo através do endereço http://localhost:3000/ em seu navegador.
